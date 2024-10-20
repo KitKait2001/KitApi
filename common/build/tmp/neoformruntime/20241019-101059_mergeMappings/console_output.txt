@@ -1,0 +1,12 @@
+Task: MERGE_MAPPING
+Left:    config\joined.tsrg
+         Reversed=false
+         null
+Right:   C:\Users\caiti\.gradle\caches\neoformruntime\artifacts\minecraft_1.21_client_mappings.txt
+         Reversed=false
+         right,left
+Classes: true
+Fields:  true
+Methods: true
+Params:  false
+Output:  .\output.tsrg

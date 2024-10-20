@@ -1,0 +1,1 @@
+Loading mapping file C:\Users\caiti\.gradle\caches\modules-2\files-2.1\org.parchmentmc.data\parchment-1.21\2024.06.23\46ed1a1bd6aeb22dfd2ecf3c80c224e99031d8d4\parchment-1.21-2024.06.23-checked.zip

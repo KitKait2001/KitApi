@@ -1,0 +1,7 @@
+Java Launcher: C:\Users\caiti\.jdks\temurin-21.0.3\bin\java.exe
+Arguments: '--inJar, C:\Users\caiti\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.21-51.0.17\forge-1.21-51.0.17-injected.jar, --outJar, C:\Users\caiti\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.21-51.0.17_mapped_official_1.21\forge-1.21-51.0.17_mapped_official_1.21.jar, --logFile, accesstransform.log, --atFile, C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\forge\build\_atJar_4\parent_at.cfg'
+Classpath:
+ - C:\Users\caiti\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.2.0\accesstransformers-8.2.0-fatjar.jar
+Working directory: C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\forge\build\_atJar_4
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================

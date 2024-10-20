@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "net/caitie/kitapi/mixin/MixinMinecraft": {
+      "<init>": "Lnet/minecraft/class_310;<init>(Lnet/minecraft/class_542;)V"
+    },
+    "net/caitie/kitapi/mixin/MixinTitleScreen": {
+      "init()V": "Lnet/minecraft/class_442;method_25426()V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/caitie/kitapi/mixin/MixinMinecraft": {
+        "<init>": "Lnet/minecraft/class_310;<init>(Lnet/minecraft/class_542;)V"
+      },
+      "net/caitie/kitapi/mixin/MixinTitleScreen": {
+        "init()V": "Lnet/minecraft/class_442;method_25426()V"
+      }
+    }
+  }
+}

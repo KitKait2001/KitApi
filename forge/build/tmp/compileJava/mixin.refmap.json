@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "net/caitie/kitapi/mixin/MixinTitleScreen": {
+      "init()V": "Lnet/minecraft/client/gui/screens/TitleScreen;m_7856_()V"
+    }
+  },
+  "data": {
+    "searge": {
+      "net/caitie/kitapi/mixin/MixinTitleScreen": {
+        "init()V": "Lnet/minecraft/client/gui/screens/TitleScreen;m_7856_()V"
+      }
+    }
+  }
+}

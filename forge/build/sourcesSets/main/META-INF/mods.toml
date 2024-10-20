@@ -1,0 +1,27 @@
+modLoader = "javafml" #mandatory
+loaderVersion = "[51,)" #mandatory This is typically bumped every Minecraft version by Forge. See https://files.minecraftforge.net/ for a list of versions.
+license = "MIT" # Review your options at https://choosealicense.com/.
+#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
+#clientSideOnly=true #optional
+[[mods]] #mandatory
+modId = "kitapi" #mandatory
+version = "1.0.0" #mandatory
+displayName = "KitApi" #mandatory
+#updateJSONURL="https://change.me.example.invalid/updates.json" #optional, see https://mcforge.readthedocs.io/en/latest/gettingstarted/autoupdate/
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional, displayed in the mod UI
+logoFile = "kitapi.png" #optional
+credits = "" #optional
+authors = "KitKait2001" #optional
+description = '''An API for complex NPCs to make my life a little easier! :)''' #mandatory Supports multiline text
+[[dependencies."kitapi"]] #optional
+modId = "forge" #mandatory
+mandatory = true #mandatory
+versionRange = "[51.0.17,)" #mandatory
+ordering = "NONE" # The order that this dependency should load in relation to your mod, required to be either 'BEFORE' or 'AFTER' if the dependency is not mandatory
+side = "BOTH" # Side this dependency is applied on - 'BOTH', 'CLIENT' or 'SERVER'
+[[dependencies."kitapi"]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.21, 1.22)"
+ordering = "NONE"
+side = "BOTH"

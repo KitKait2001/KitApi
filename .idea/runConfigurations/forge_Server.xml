@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<component>
+  <configuration default="false" factoryName="Application" name="forge Server" singleton="false" type="Application">
+    <option name="MAIN_CLASS_NAME" value="net.minecraftforge.bootstrap.ForgeBootstrap"/>
+    <option name="VM_PARAMETERS" value="&quot;-Dnet.minecraftforge.gradle.GradleStart.srg.srg-mcp=C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\forge\build\createSrgToMcp\output.srg&quot; -Dmixin.env.remapRefMap=true &quot;-Dmixin.env.refMapRemappingFile=C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\forge\build\createSrgToMcp\output.srg&quot; -Dforge.enableGameTest=true -Djava.net.preferIPv6Addresses=system"/>
+    <option name="PROGRAM_PARAMETERS" value="--launchTarget forge_userdev_server --gameDir . --mixin.config kitapi.mixins.json --mixin.config kitapi.forge.mixins.json"/>
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$\forge\runs\server"/>
+    <module name="KitApi.forge.main"/>
+    <envs>
+      <env name="MOD_CLASSES" value="modServerRun%%$PROJECT_DIR$\forge\build\sourcesSets\main"/>
+      <env name="MCP_MAPPINGS" value="official_1.21"/>
+    </envs>
+    <method v="2">
+      <option enabled="true" name="Make"/>
+      <option enabled="true" externalProjectPath="$PROJECT_DIR$" name="Gradle.BeforeRunTask" tasks=":forge:prepareServerCompile"/>
+    </method>
+  </configuration>
+</component>

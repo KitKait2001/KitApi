@@ -1,0 +1,35 @@
+{
+    "schemaVersion": 1,
+    "id": "kitapi",
+    "version": "1.0.0",
+    "name": "KitApi",
+    "description": "An API for complex NPCs to make my life a little easier! :)",
+    "authors": [
+        "KitKait2001"
+    ],
+    "contact": {
+        "homepage": "https://fabricmc.net/",
+        "sources": "https://github.com/FabricMC/fabric-example-mod"
+    },
+    "license": "MIT",
+    "icon": "kitapi.png",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "net.caitie.kitapi.Kitapi"
+        ]
+    },
+    "mixins": [
+        "kitapi.mixins.json",
+        "kitapi.fabric.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=0.15.11",
+        "fabric-api": "*",
+        "minecraft": "1.21",
+        "java": ">=21"
+    },
+    "suggests": {
+        "another-mod": "*"
+    }
+}

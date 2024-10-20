@@ -1,0 +1,255 @@
+Loading mapping file C:\Users\caiti\.gradle\caches\modules-2\files-2.1\org.parchmentmc.data\parchment-1.21\2024.06.23\46ed1a1bd6aeb22dfd2ecf3c80c224e99031d8d4\parchment-1.21-2024.06.23-checked.zip
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.IKeyConflictContext
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.IKeyConflictContext
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.IKeyConflictContext
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.KeyModifier
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.IKeyConflictContext
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.KeyModifier
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.IKeyConflictContext
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.IKeyConflictContext
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.KeyModifier
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.KeyModifier
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.KeyModifier
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.IKeyConflictContext
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.IKeyConflictContext
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.IKeyConflictContext
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.KeyModifier
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.IKeyConflictContext
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.KeyModifier
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.IKeyConflictContext
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.IKeyConflictContext
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.KeyModifier
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.KeyModifier
+Failed to create binary representation for type net.neoforged.neoforge.client.settings.KeyModifier
+Failed to create binary representation for type net.neoforged.neoforge.client.GlStateBackup
+Failed to create binary representation for type net.neoforged.neoforge.client.GlStateBackup
+Failed to create binary representation for type net.neoforged.neoforge.client.GlStateBackup
+Failed to create binary representation for type net.neoforged.neoforge.client.GlStateBackup
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.neoforge.client.IArmPoseTransformer
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.neoforge.common.util.BlockSnapshot
+Failed to create binary representation for type net.neoforged.neoforge.network.connection.ConnectionType
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.gui.CreativeTabsScreenPage
+Failed to create binary representation for type net.neoforged.neoforge.client.gui.CreativeTabsScreenPage
+Failed to create binary representation for type net.neoforged.neoforge.client.model.ExtraFaceData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.ExtraFaceData
+Failed to create binary representation for type net.neoforged.neoforge.client.ChunkRenderTypeSet
+Failed to create binary representation for type net.neoforged.neoforge.client.model.ExtraFaceData
+Failed to create binary representation for type net.neoforged.neoforge.client.ChunkRenderTypeSet
+Failed to create binary representation for type net.neoforged.neoforge.client.ChunkRenderTypeSet
+Failed to create binary representation for type net.neoforged.neoforge.client.model.ExtraFaceData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.ExtraFaceData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.ExtraFaceData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.ExtraFaceData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.ExtraFaceData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.common.world.AuxiliaryLightManager
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.textures.SpriteContentsConstructor
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelDataManager
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.network.connection.ConnectionType
+Failed to create binary representation for type net.neoforged.neoforge.network.connection.ConnectionType
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.common.util.TriState
+Failed to create binary representation for type net.neoforged.neoforge.client.RenderTypeGroup
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.common.util.TriState
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.RenderTypeGroup
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.ChunkRenderTypeSet
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.ChunkRenderTypeSet
+Failed to create binary representation for type net.neoforged.neoforge.client.ChunkRenderTypeSet
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.model.data.ModelData
+Failed to create binary representation for type net.neoforged.neoforge.client.RenderTypeGroup
+Failed to create binary representation for type net.neoforged.neoforge.registries.datamaps.DataMapType<T,A>
+Failed to create binary representation for type net.neoforged.neoforge.registries.datamaps.DataMapType<T,A>
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.common.data.ExistingFileHelper
+Failed to create binary representation for type net.neoforged.neoforge.network.connection.ConnectionType
+Failed to create binary representation for type net.neoforged.neoforge.network.connection.ConnectionType
+Failed to create binary representation for type net.neoforged.neoforge.network.connection.ConnectionType
+Failed to create binary representation for type net.neoforged.neoforge.common.conditions.ICondition.IContext
+Failed to create binary representation for type net.neoforged.neoforge.network.bundle.PacketAndPayloadAcceptor<net.minecraft.network.protocol.game.ClientGamePacketListener>
+Failed to create binary representation for type net.neoforged.neoforge.network.connection.ConnectionType
+Failed to create binary representation for type net.neoforged.neoforge.network.connection.ConnectionType
+Failed to create binary representation for type net.neoforged.neoforge.common.damagesource.IScalingFunction
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.neoforge.common.damagesource.IScalingFunction
+Failed to create binary representation for type net.neoforged.neoforge.common.damagesource.IDeathMessageProvider
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.neoforge.common.damagesource.IDeathMessageProvider
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.neoforge.capabilities.ICapabilityInvalidationListener
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+Failed to create binary representation for type net.neoforged.neoforge.capabilities.ICapabilityInvalidationListener
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentType<T>
+Failed to create binary representation for type net.neoforged.neoforge.capabilities.EntityCapability<T,C>
+Failed to create binary representation for type net.neoforged.neoforge.capabilities.EntityCapability<T,Void>
+Failed to create binary representation for type net.neoforged.neoforge.common.IMinecartCollisionHandler
+Failed to create binary representation for type net.neoforged.neoforge.common.IMinecartCollisionHandler
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.neoforge.common.EffectCure
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentType<T>
+Failed to create binary representation for type net.neoforged.neoforge.capabilities.EntityCapability<T,C>
+Failed to create binary representation for type net.neoforged.neoforge.capabilities.EntityCapability<T,Void>
+Failed to create binary representation for type net.neoforged.neoforge.common.ToolAction
+Failed to create binary representation for type net.neoforged.neoforge.common.ToolAction
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.neoforge.common.ToolAction
+Failed to create binary representation for type net.neoforged.neoforge.common.ToolAction
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.neoforge.common.ToolAction
+Failed to create binary representation for type net.neoforged.neoforge.common.ToolAction
+Failed to create binary representation for type net.neoforged.neoforge.common.ToolAction
+Failed to create binary representation for type net.neoforged.neoforge.common.ToolAction
+Failed to create binary representation for type net.neoforged.neoforge.common.ToolAction
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.neoforge.common.crafting.ICustomIngredient
+Failed to create binary representation for type net.neoforged.neoforge.common.ToolAction
+Failed to create binary representation for type net.neoforged.neoforge.common.crafting.ICustomIngredient
+Failed to create binary representation for type net.neoforged.neoforge.common.brewing.IBrewingRecipe
+Failed to create binary representation for type net.neoforged.neoforge.common.crafting.ICustomIngredient
+Failed to create binary representation for type net.neoforged.neoforge.common.crafting.ICustomIngredient
+Failed to create binary representation for type net.neoforged.neoforge.common.world.chunk.ForcedChunkManager.TicketTracker<net.minecraft.core.BlockPos>
+Failed to create binary representation for type net.neoforged.neoforge.common.world.chunk.ForcedChunkManager.TicketTracker<java.util.UUID>
+Failed to create binary representation for type net.neoforged.neoforge.common.world.ModifiableBiomeInfo
+Failed to create binary representation for type net.neoforged.fml.common.asm.enumextension.ExtensionInfo
+Failed to create binary representation for type net.neoforged.neoforge.common.PlantType
+Failed to create binary representation for type net.neoforged.neoforge.common.PlantType
+Failed to create binary representation for type net.neoforged.neoforge.common.world.ModifiableBiomeInfo
+Failed to create binary representation for type net.neoforged.neoforge.common.IPlantable
+Failed to create binary representation for type net.neoforged.neoforge.common.IPlantable
+Failed to create binary representation for type net.neoforged.neoforge.common.PlantType
+Failed to create binary representation for type net.neoforged.neoforge.common.PlantType
+Failed to create binary representation for type net.neoforged.neoforge.common.PlantType
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentType<T>
+Failed to create binary representation for type net.neoforged.neoforge.common.PlantType
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentType<T>
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentHolder.AsField
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentType<?>
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentType<T>
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentType<T>
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentType<T>
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentType<T>
+Failed to create binary representation for type net.neoforged.neoforge.attachment.AttachmentHolder.AsField
+Failed to create binary representation for type net.neoforged.neoforge.common.world.LevelChunkAuxiliaryLightManager
+Failed to create binary representation for type net.neoforged.neoforge.event.level.AlterGroundEvent.StateProvider
+Failed to create binary representation for type net.neoforged.neoforge.event.level.AlterGroundEvent.StateProvider
+Failed to create binary representation for type net.neoforged.neoforge.fluids.FluidType
+Failed to create binary representation for type net.neoforged.neoforge.common.world.ModifiableStructureInfo
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:76, targeting net.minecraft.client.renderer.block.model.ItemTransform INNERCLASS Deserializer did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:224, targeting net.minecraft.world.item.crafting.Ingredient$TagValue METHOD <init>(Lnet/minecraft/tags/TagKey;)V did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:395, targeting net.minecraft.world.level.levelgen.NoiseGeneratorSettings METHOD lambda$static$0(Lcom/mojang/serialization/codecs/RecordCodecBuilder$Instance;)Lcom/mojang/datafixers/kinds/App; did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:4, targeting net.minecraft.client.Options INNERCLASS FieldAccess did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:225, targeting net.minecraft.world.item.crafting.Ingredient INNERCLASS Value did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:310, targeting net.minecraft.world.level.block.MelonBlock METHOD <init>(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)V did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:72, targeting net.minecraft.client.renderer.block.model.ItemOverride INNERCLASS Deserializer did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:190, targeting net.minecraft.world.entity.raid.Raid INNERCLASS RaiderType did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:61, targeting net.minecraft.client.renderer.block.model.BlockElement INNERCLASS Deserializer did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:51, targeting net.minecraft.client.renderer.RenderStateShard INNERCLASS OutputStateShard did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:94, targeting net.minecraft.client.renderer.texture.atlas.sources.Unstitcher INNERCLASS Region did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:49, targeting net.minecraft.client.renderer.RenderStateShard INNERCLASS MultiTextureStateShard did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:54, targeting net.minecraft.client.renderer.RenderStateShard INNERCLASS TextureStateShard did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:286, targeting net.minecraft.world.level.block.EnchantmentTableBlock METHOD <init>(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)V did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:35, targeting net.minecraft.client.renderer.RenderType INNERCLASS OutlineProperty did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:41, targeting net.minecraft.client.renderer.RenderStateShard INNERCLASS BooleanStateShard did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:55, targeting net.minecraft.client.renderer.RenderStateShard INNERCLASS TexturingStateShard did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:95, targeting net.minecraft.client.renderer.texture.atlas.sources.Unstitcher$Region METHOD <init>(Lnet/minecraft/resources/ResourceLocation;DDDD)V did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:92, targeting net.minecraft.client.renderer.texture.atlas.sources.PalettedPermutations INNERCLASS PalettedSpriteSupplier did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:142, targeting net.minecraft.data.tags.IntrinsicHolderTagsProvider INNERCLASS IntrinsicTagAppender did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:152, targeting net.minecraft.server.MinecraftServer INNERCLASS ReloadableResources did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:408, targeting com.mojang.blaze3d.vertex.VertexFormatElement$Usage INNERCLASS SetupState did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:45, targeting net.minecraft.client.renderer.RenderStateShard INNERCLASS EmptyTextureStateShard did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:73, targeting net.minecraft.client.renderer.block.model.ItemOverride$Deserializer METHOD <init>()V did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:12, targeting net.minecraft.client.gui.screens.MenuScreens INNERCLASS ScreenConstructor did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:63, targeting net.minecraft.client.renderer.block.model.BlockElementFace INNERCLASS Deserializer did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:43, targeting net.minecraft.client.renderer.RenderStateShard INNERCLASS CullStateShard did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:44, targeting net.minecraft.client.renderer.RenderStateShard INNERCLASS DepthTestStateShard did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:48, targeting net.minecraft.client.renderer.RenderStateShard INNERCLASS LineStateShard did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:53, targeting net.minecraft.client.renderer.RenderStateShard INNERCLASS ShaderStateShard did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:5, targeting net.minecraft.client.gui.Gui INNERCLASS HeartType did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:196, targeting net.minecraft.world.inventory.MenuType INNERCLASS MenuSupplier did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:57, targeting net.minecraft.client.renderer.RenderStateShard INNERCLASS WriteMaskStateShard did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:52, targeting net.minecraft.client.renderer.RenderStateShard INNERCLASS OverlayStateShard did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:36, targeting net.minecraft.client.renderer.RenderType INNERCLASS CompositeState did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:77, targeting net.minecraft.client.renderer.block.model.ItemTransform$Deserializer METHOD <init>()V did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:56, targeting net.minecraft.client.renderer.RenderStateShard INNERCLASS TransparencyStateShard did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:93, targeting net.minecraft.client.renderer.texture.atlas.sources.PalettedPermutations$PalettedSpriteSupplier METHOD <init>(Lnet/minecraft/client/renderer/texture/atlas/sources/LazyLoadedImage;Ljava/util/function/Supplier;Lnet/minecraft/resources/ResourceLocation;)V did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:46, targeting net.minecraft.client.renderer.RenderStateShard INNERCLASS LayeringStateShard did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:222, targeting net.minecraft.world.item.crafting.Ingredient$ItemValue METHOD <init>(Lnet/minecraft/world/item/ItemStack;)V did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:42, targeting net.minecraft.client.renderer.RenderStateShard INNERCLASS ColorLogicStateShard did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:164, targeting net.minecraft.util.datafix.fixes.StructuresBecomeConfiguredFix INNERCLASS Conversion did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:50, targeting net.minecraft.client.renderer.RenderStateShard INNERCLASS OffsetTexturingStateShard did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:223, targeting net.minecraft.world.item.crafting.Ingredient INNERCLASS TagValue did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:157, targeting net.minecraft.server.packs.FilePackResources INNERCLASS SharedZipFileAccess did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:62, targeting net.minecraft.client.renderer.block.model.BlockElement$Deserializer METHOD <init>()V did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:82, targeting net.minecraft.client.renderer.block.model.ItemTransforms$Deserializer METHOD <init>()V did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:197, targeting net.minecraft.world.item.CreativeModeTab INNERCLASS TabVisibility did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:359, targeting net.minecraft.world.level.block.entity.BlockEntityType INNERCLASS BlockEntitySupplier did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:66, targeting net.minecraft.client.renderer.block.model.BlockFaceUV$Deserializer METHOD <init>()V did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:217, targeting net.minecraft.world.item.alchemy.PotionBrewing INNERCLASS Mix did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:221, targeting net.minecraft.world.item.crafting.Ingredient INNERCLASS ItemValue did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:65, targeting net.minecraft.client.renderer.block.model.BlockFaceUV INNERCLASS Deserializer did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:235, targeting net.minecraft.world.level.biome.Biome INNERCLASS ClimateSettings did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:27, targeting net.minecraft.client.particle.ParticleEngine INNERCLASS SpriteParticleRegistration did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:75, targeting net.minecraft.client.renderer.block.model.ItemOverrides INNERCLASS BakedOverride did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:96, targeting net.minecraft.client.renderer.texture.atlas.sources.Unstitcher INNERCLASS RegionInstance did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:145, targeting net.minecraft.data.tags.TagsProvider INNERCLASS TagAppender did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:47, targeting net.minecraft.client.renderer.RenderStateShard INNERCLASS LightmapStateShard did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:19, targeting net.minecraft.client.multiplayer.SessionSearchTrees INNERCLASS Key did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:64, targeting net.minecraft.client.renderer.block.model.BlockElementFace$Deserializer METHOD <init>()V did not apply as its target doesn't exist
+Access transformer PUBLIC LEAVE C:\Users\caiti\OneDrive\Desktop\Minecraft Modding\Workspaces\Roamers\KitApi\neoforge\build\tmp\neoformruntime\20241019-101217_transformSources\ats\accesstransformer.cfg:81, targeting net.minecraft.client.renderer.block.model.ItemTransforms INNERCLASS Deserializer did not apply as its target doesn't exist
