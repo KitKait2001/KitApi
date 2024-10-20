@@ -4,9 +4,11 @@
   "package": "net.caitie.kitapi.mixin",
   "refmap": "${mod_id}.refmap.json",
   "compatibilityLevel": "JAVA_18",
-  "mixins": [],
+  "mixins": [
+    "PlayerMixin"
+  ],
   "client": [
-    "MixinMinecraft"
+    "client.AbstractClientPlayerMixin"
   ],
   "server": [],
   "injectors": {

@@ -1,1 +1,2 @@
 v1	named	intermediary
+METHOD	net/caitie/kitapi/mixin/client/AbstractClientPlayerMixin	()Lnet/minecraft/client/resources/PlayerSkin;	getSkin	method_52814

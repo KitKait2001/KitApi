@@ -1,19 +1,23 @@
 {
   "mappings": {
-    "net/caitie/kitapi/mixin/MixinMinecraft": {
-      "<init>": "Lnet/minecraft/class_310;<init>(Lnet/minecraft/class_542;)V"
+    "net/caitie/kitapi/mixin/PlayerMixin": {
+      "addAdditionalSaveData": "Lnet/minecraft/class_1657;method_5652(Lnet/minecraft/class_2487;)V",
+      "defineSynchedData": "Lnet/minecraft/class_1657;method_5693(Lnet/minecraft/class_2945$class_9222;)V",
+      "readAdditionalSaveData": "Lnet/minecraft/class_1657;method_5749(Lnet/minecraft/class_2487;)V"
     },
-    "net/caitie/kitapi/mixin/MixinTitleScreen": {
-      "init()V": "Lnet/minecraft/class_442;method_25426()V"
+    "net/caitie/kitapi/mixin/client/AbstractClientPlayerMixin": {
+      "getSkin": "Lnet/minecraft/class_742;method_52814()Lnet/minecraft/class_8685;"
     }
   },
   "data": {
     "named:intermediary": {
-      "net/caitie/kitapi/mixin/MixinMinecraft": {
-        "<init>": "Lnet/minecraft/class_310;<init>(Lnet/minecraft/class_542;)V"
+      "net/caitie/kitapi/mixin/PlayerMixin": {
+        "addAdditionalSaveData": "Lnet/minecraft/class_1657;method_5652(Lnet/minecraft/class_2487;)V",
+        "defineSynchedData": "Lnet/minecraft/class_1657;method_5693(Lnet/minecraft/class_2945$class_9222;)V",
+        "readAdditionalSaveData": "Lnet/minecraft/class_1657;method_5749(Lnet/minecraft/class_2487;)V"
       },
-      "net/caitie/kitapi/mixin/MixinTitleScreen": {
-        "init()V": "Lnet/minecraft/class_442;method_25426()V"
+      "net/caitie/kitapi/mixin/client/AbstractClientPlayerMixin": {
+        "getSkin": "Lnet/minecraft/class_742;method_52814()Lnet/minecraft/class_8685;"
       }
     }
   }

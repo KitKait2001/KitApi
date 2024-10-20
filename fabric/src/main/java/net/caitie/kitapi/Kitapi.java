@@ -13,6 +13,6 @@ public class Kitapi implements ModInitializer {
 
         // Use Fabric to bootstrap the Common mod.
         Constants.LOG.info("Hello Fabric world!");
-        CommonClass.init();
+        KitApiMain.init();
     }
 }
