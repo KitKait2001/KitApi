@@ -2,6 +2,7 @@ package net.caitie.kitapi.content.entity;
 
 import net.caitie.kitapi.content.entity.inventory.NPCInventory;
 import net.minecraft.server.level.ServerLevel;
+import net.minecraft.sounds.SoundEvent;
 import net.minecraft.world.entity.AgeableMob;
 import net.minecraft.world.entity.EntityType;
 import net.minecraft.world.entity.ExperienceOrb;
@@ -61,6 +62,20 @@ public abstract class AbstractVillagerNPC extends AbstractVillager implements IK
     @Override
     public NPCInventory<AbstractVillagerNPC> getInventory() {
         return this.inventory;
+    }
+
+    @Override
+    public SoundEvent getNotifyTradeSound() {
+        return null;
+    }
+
+    @Override
+    protected SoundEvent getTradeUpdatedSound(boolean traded) {
+        return null;
+    }
+
+    @Override
+    public void playCelebrateSound() {
     }
 
 }
