@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: KitApi
+Specification-Vendor: KitKait2001
+Specification-Version: 1.0.0
+Implementation-Title: forge
+Implementation-Version: 1.0.0
+Implementation-Vendor: KitKait2001
+Built-On-Minecraft: 1.21
+
