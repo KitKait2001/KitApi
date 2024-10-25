@@ -3,6 +3,7 @@ plugins {
     id 'net.minecraftforge.gradle' version '[6.0.24,6.2)'
     id 'org.spongepowered.mixin' version '0.7-SNAPSHOT'
 }
+apply plugin: 'maven-publish'
 base {
     archivesName = "${mod_name}-forge-${minecraft_version}"
 }
@@ -76,7 +77,15 @@ dependencies {
 publishing {
     publications {
         mavenJava(MavenPublication) {
-            fg.component(it)
+            artifactId = base.archivesName.get()
+            artifact(tasks.jar)
+            artifact(tasks.named("sourcesJar"))
+        }
+    }
+    repositories {
+        Object deployDir = project.findProperty("DEPLOY_DIR")
+        if (deployDir != null) {
+            maven(deployDir)
         }
     }
 }
