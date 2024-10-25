@@ -6,4 +6,8 @@ plugins {
     id 'net.neoforged.moddev' version '0.1.110' apply false
 }
 
+repositories {
+    mavenLocal()
+}
+
 group = "com.github.KitKait2001"
