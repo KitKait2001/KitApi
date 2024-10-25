@@ -4,3 +4,5 @@ plugins {
     // see https://projects.neoforged.net/neoforged/moddevgradle for new versions
     id 'net.neoforged.moddev' version '0.1.110' apply false
 }
+
+group = "com.github.KitKait2001"
